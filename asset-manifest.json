@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/smart-agriculture-system/static/css/main.07b32df5.css",
+    "main.js": "/smart-agriculture-system/static/js/main.dc6ecc26.js",
+    "index.html": "/smart-agriculture-system/index.html",
+    "main.07b32df5.css.map": "/smart-agriculture-system/static/css/main.07b32df5.css.map",
+    "main.dc6ecc26.js.map": "/smart-agriculture-system/static/js/main.dc6ecc26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07b32df5.css",
+    "static/js/main.dc6ecc26.js"
+  ]
+}
